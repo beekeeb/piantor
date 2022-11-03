@@ -10,7 +10,7 @@ The development of this project is sponsored by [PCBWay](https://pcbway.com/g/be
 
 ## Quick Links
 
-* [Build Guide](https://docs.beekeeb.com/piantor-keyboard#build-guide)
+* [Build guide](https://docs.beekeeb.com/piantor-keyboard#build-guide)
 * [Precompiled firmware](https://docs.beekeeb.com/piantor-keyboard#precompiled-firmware)
 * [beekeeb showcase](https://showcase.beekeeb.com/piantor-keyboard/)
 
