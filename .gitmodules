@@ -1,0 +1,9 @@
+[submodule "keyswitches.pretty"]
+	path = keyswitches.pretty
+	url = https://github.com/daprice/keyswitches.pretty
+[submodule "KiCad-RP-Pico"]
+	path = KiCad-RP-Pico
+	url = git@github.com:ncarandini/KiCad-RP-Pico.git
+[submodule "Keebio-Parts.pretty"]
+	path = Keebio-Parts.pretty
+	url = https://github.com/keebio/Keebio-Parts.pretty.git
