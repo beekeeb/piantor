@@ -4,7 +4,7 @@
 
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 
-The Piantor Keyboard is a 42-key or 36-key wired, diodeless, non-flippable, low profile choc v1 (hybrid hotswap and soldered-in), aggressive column staggered, programmable ergonomic mechnical split keyboard powered by Rasyberry Pi Pico or other compatible RP2040 boards. It is based on the [Cantor Keyboard](https://github.com/diepala/cantor). The name "Piantor" is the portmanteau of "Pico" and "Cantor".
+The Piantor Keyboard is a 42-key or 36-key wired, diodeless, non-flippable, low profile choc v1 (hybrid hotswap and non-hotswap/soldered-in), aggressive column staggered, programmable ergonomic mechnical split keyboard powered by Rasyberry Pi Pico or other compatible RP2040 boards. It is based on the [Cantor Keyboard](https://github.com/diepala/cantor). The name "Piantor" is the portmanteau of "Pico" and "Cantor".
 
 The development of this project is sponsored by [PCBWay](https://pcbway.com/g/beekeeb) (affiliate link).
 
