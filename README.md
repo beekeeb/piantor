@@ -63,7 +63,26 @@ Precompiled firmware can be found at https://docs.beekeeb.com/piantor-keyboard.
 
 ## Cases
 
-* [Cantor Tray Case](https://www.thingiverse.com/thing:5382705) by chewiedies 
+### Piantor Case with a Switch Plate (3D Printable)
+
+![Piantor Keyboard Case](case/top.jpg)
+
+![Piantor Keyboard Case](case/side.jpg)
+
+The 3D printable case can be founded in the [case folder](./case). The switch plate is optional for the non-hotswap version.
+
+GB823 M2 stainless steel screws with small pan heads are recommended.
+
+* Screw Length
+  * No switch plates: 4mm
+  * With Switch plates: 6mm
+  * With Switch plates and [Donut0804](https://shop.beekeeb.com/product/donut-silicone-rubber-feet-and-pads-o-rings-washers-like/)/o-rings: 7mm
+
+Do not over-tighten the screws.
+
+### Cantor Tray Case
+
+The [Cantor Tray Case](https://www.thingiverse.com/thing:5382705) by chewiedies can be used. There is not a switch plate so it is not recommended for the hotswap version.
 
 ## Boards Preview
 
