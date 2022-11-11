@@ -21,7 +21,7 @@ The development of this project is sponsored by [PCBWay](https://pcbway.com/g/be
 * Non-flippable PCBs - Fewer ways to make mistakes when you install the controller breakout boards. Great for first time keyboard builders.
 * Diodeless - A more robust build with fewer things to solder or break.
 * Hybrid hotswap and soldered-in low profile choc switches - Experiment with different key switches with the hotswap sockets, or solder the key switches for a more stable build.
-* Breakable pinky column - Easily convert the PCB from a 42-key to 36-key layout. You can break off the pinky column without specialized tools.
+* Breakable pinky column - Easily convert the PCB from a 42-key to 36-key layout. You can snap off the pinky column without specialized tools.
 
 ## Bill of Materials (BOM)
 
