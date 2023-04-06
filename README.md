@@ -53,7 +53,8 @@ A single side should cost around $31 for 5 pcs excluding shipping. For both side
 
 * [QMK](https://github.com/qmk/qmk_firmware) - supported
 * [Vial](https://github.com/beekeeb/vial-qmk-piantor) (based on QMK) - supported
-* KMK (Python/CircuitPython) - support planned (No ETA)
+* KMK (Python/CircuitPython) - pull request at https://github.com/KMKfw/kmk_firmware/pull/723
+* [An example of KMK with miryoku](https://github.com/hansamann/piantor_miryoku_mac) by [hansamann](https://github.com/hansamann)
 * Remap - support planned (No ETA)
 * PRK (Ruby) - support planned (No ETA)
 * keyberon (Rust) - support planned (No ETA)
