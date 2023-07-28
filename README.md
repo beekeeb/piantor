@@ -64,6 +64,9 @@ Precompiled firmware can be found at https://docs.beekeeb.com/piantor-keyboard.
 
 ## Cases
 
+* [Piantor Gasket Mount Case by chewiedies](https://www.printables.com/model/536044-piantor-gasket-mount-case)
+* [Piantor 36-key case with Tenting & Magnets! by Daave](https://www.printables.com/model/381730-piantor-36-key-case-with-tenting-magnets) 
+
 ### Piantor Case with a Switch Plate (3D Printable)
 
 ![Piantor Keyboard Case](case/top.jpg)
